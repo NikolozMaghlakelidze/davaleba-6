@@ -1,0 +1,244 @@
+
+
+.container{
+width: min(100%, 1440px);
+display: flex;
+background-color: #fff;
+margin: auto;
+}
+/* header start  */
+header{
+display: flex;
+}
+.header_img{
+  padding: 52px 251px 52px 98px;
+}
+
+.header_li{
+ flex-direction: row;
+padding-top: 90px;
+display: inline-block;
+font-size: 24px;
+padding-top: 52px;
+padding-bottom: 52px;
+font-weight: 500;
+color: #fff;
+font-family: 'Ubuntu', sans-serif;
+}
+.li_1{
+color: #27187F;
+}
+.li_2{
+   padding-left: 50px;
+   padding-right: 50px;
+   color: #758BFD;
+}
+.search_div{
+background-color: #fff;
+margin:52px 98px 52px 251px;
+width: 221px;
+border-radius: 10px;
+border: 3px solid #27187F;
+height: 56px;
+vertical-align: middle;   
+}
+.fa-solid1{
+    font-size: 50px;
+    color: #758BFD;
+    display: flex;
+    margin-left: 165px;
+
+}
+/* section start  */
+.diiv{
+    background-color:#DDEAF8;
+}
+.section{
+    width: 1244px;
+    margin: auto;
+    background-color: #DDEAF8;
+    display: flex;
+    height: 822px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 115px;
+}
+.section_h{ 
+    color: #27187F;
+font-size: 32px;
+font-weight: 700;
+padding-bottom: 68px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.cards{
+display: inline-block;
+background-color: #fff;
+display: flex;
+flex-direction: column;
+width: 400px;
+height: 333px;
+
+}
+
+.section_img1{
+    width: 340px;
+    height: 188px;
+    margin-top: 68px;
+    padding-left: 33px;
+}
+.section_text{
+    color: #133B3A;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: px33;
+    margin-left: 50px;
+ 
+}
+.cards1{
+    display: inline-block;
+background-color: #fff;
+display: flex;
+flex-direction: column;
+width: 450px;
+height: 333px;
+}
+.section_text{
+    color: #133B3A;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+}
+.section_img2{
+    width: 340px;
+    height: 188px;
+    margin-top: 68px;
+    padding: 33px;
+}
+
+
+.section_img3{
+    width: 340px;
+    height: 188px;
+    margin-top: 68px;
+    padding: 33px;
+}
+.me{
+    color: #133B3A;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+.section_img4{
+    width: 340px;
+    height: 188px;
+    padding: 33px;
+}
+.text40{
+    padding-top: 500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.section_img5{
+    width: 340px;
+    height: 188px;
+    padding: 33px;
+}
+
+
+.section_img6{
+    width: 340px;
+    height: 188px;
+    padding: 33px;
+}
+footer{
+    background-color: #758BFD;
+    width: min(100%, 1440px);
+height: 239px;
+}
+.footer_div{
+display: inline-block;
+margin: 75px 0 75px 98px;
+}
+.footer_h{
+    color: #00CAD7;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+.footer_mail{
+    color: #FFF;
+font-size: 13px;
+font-weight: 400;
+font-family: 'Roboto', sans-serif;
+}
+.social_div{
+    margin: 12px 0 0 98px;
+}
+.fa-facebook{
+    width: 22px;
+    height: 22px;
+    padding-right: 24px;
+color: #FFF;
+}
+.fa-twitter{
+    width: 22px;
+    height: 22px;
+    padding-right:24px;
+color: #FFF;
+}
+.fa-instagram{
+    width: 22px;
+    height: 22px;
+    padding-right: 24px;
+color: #FFF;
+}
+.fa-square-instagram{
+    width: 22px;
+    height: 22px;
+ color: #FFF;  
+}
+.footer_div1{
+    display: inline-block;
+    /* margin: 75px 98px 75px 663px; */
+    vertical-align: top;
+    margin-top: -200px;
+    margin-left: 663px;
+}
+.footer_img1{
+    border-radius: 5px;
+    background: #FFF;
+    width: 97px;
+height: 55px;
+margin-right: 11px;
+padding: 10px 5px 15px 2px;
+}
+.footer_img2{
+    border-radius: 5px;
+    background: #FFF;
+    width: 97px;
+height: 55px;
+margin-right: 11px;
+}
+.footer_img3{
+    border-radius: 5px;
+    background: #FFF;
+    width: 97px;
+height: 55px;
+margin-right: 11px;
+}
+.footer_img4{
+    border-radius: 5px;
+background: #FFF;
+width: 97px;
+height: 55px;
+}
